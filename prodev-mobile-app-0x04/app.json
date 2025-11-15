@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "prodev-mobile-app-0x04",
+    "slug": "prodev-mobile-app-0x04",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/logo.png"
+    }
+  }
+}
